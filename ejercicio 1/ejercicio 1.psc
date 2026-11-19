@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo contador
 		Definir contador Como Entero
 		
 		contador <- 2
